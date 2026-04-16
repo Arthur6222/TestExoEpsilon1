@@ -1,7 +1,7 @@
 <?php
 // Configuration
 $target_dir = "uploads/";
-$allowed_types = ['jpg', 'png', 'gif', 'pdf', 'txt'];
+$allowed_types = [ 'pdf', 'txt'];
 $max_file_size = 5 * 1024 * 1024; 
 
 
